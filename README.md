@@ -1,1 +1,1 @@
-# Infinitely-Wide-Neural-Networks-for-Small-Data-Tasks
+# Infinitely Wide Neural Networks for Small Data Tasks
